@@ -9,12 +9,17 @@ const surveyJson = {
   elements: [
     {
       name: 'name',
-      title: 'Enter your first name:',
+      title: 'Enter your name:',
       type: 'text',
     },
     {
       name: 'stampno',
-      title: 'Type in your stamp:',
+      title: 'Enter in your stamp:',
+      type: 'text',
+    },
+    {
+      name: 'comment',
+      title: 'Enter your comments',
       type: 'text',
     },
     {
