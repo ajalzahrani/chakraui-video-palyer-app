@@ -5,6 +5,8 @@
 /.pnp
 .pnp.js
 
+/bcp-api/node_modules
+
 # testing
 /coverage
 
